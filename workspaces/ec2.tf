@@ -6,3 +6,5 @@ resource "aws_instance" "web" {
     Name = "HelloTerraform"
   }
 }
+
+#test pushing from git bash to github
